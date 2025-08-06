@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.WallpaperChanger" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>
